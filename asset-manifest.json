@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/med-dose-converter/static/css/main.9d0934b1.css",
+    "main.js": "/med-dose-converter/static/js/main.14859175.js",
+    "static/js/453.54c818aa.chunk.js": "/med-dose-converter/static/js/453.54c818aa.chunk.js",
+    "index.html": "/med-dose-converter/index.html",
+    "main.9d0934b1.css.map": "/med-dose-converter/static/css/main.9d0934b1.css.map",
+    "main.14859175.js.map": "/med-dose-converter/static/js/main.14859175.js.map",
+    "453.54c818aa.chunk.js.map": "/med-dose-converter/static/js/453.54c818aa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d0934b1.css",
+    "static/js/main.14859175.js"
+  ]
+}
