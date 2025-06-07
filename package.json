@@ -1,6 +1,6 @@
 {
   "name": "med-dose-converter",
-  "homepage": "https://palva39.github.io/chld_conv_med/med-dose-converter",
+  "homepage": "https://palva39.github.io/chld_conv_med",
   "description": "A React application for converting medical doses.",
   "version": "0.1.0",
   "private": true,
